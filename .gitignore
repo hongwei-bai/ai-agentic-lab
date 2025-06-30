@@ -1,3 +1,11 @@
+photos/
+known_faces/
+private/
+test_images/
+output/
+*.pkl
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
